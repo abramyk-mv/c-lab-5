@@ -45,6 +45,9 @@
     <ClInclude Include="LinkURL.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="LinkPerson.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -72,6 +75,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="LinkURL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkPerson.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

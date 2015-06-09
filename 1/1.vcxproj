@@ -84,6 +84,7 @@
     <ClInclude Include="DialogManager.h" />
     <ClInclude Include="DlgCommand.h" />
     <ClInclude Include="Link.h" />
+    <ClInclude Include="LinkPerson.h" />
     <ClInclude Include="LinkURL.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -96,6 +97,7 @@
     <ClCompile Include="DialogManager.cpp" />
     <ClCompile Include="DlgCommand.cpp" />
     <ClCompile Include="Link.cpp" />
+    <ClCompile Include="LinkPerson.cpp" />
     <ClCompile Include="LinkURL.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
